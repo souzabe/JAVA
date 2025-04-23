@@ -5,9 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b1b48952-8f85-4783-9dbe-5e03a2f88712" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula01/src/main/java/heranca/heranca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula01/ClassesAbstratas/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula01/ClassesAbstratas/src/main/java/Basquete/Armador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula01/ClassesAbstratas/src/main/java/Basquete/Jogador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula01/ClassesAbstratas/src/main/java/Basquete/Pivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula01/ClassesAbstratas/src/main/java/Guerra/Guerreiro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula01/ClassesAbstratas/src/main/java/Guerra/Jogo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula01/ClassesAbstratas/src/main/java/Guerra/Personagem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula01/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Aula01/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,8 +55,11 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/java/JAVA",
+    "last_opened_file_path": "D:/2ESPX",
     "onboarding.tips.debug.path": "D:/JAVA/Aula01/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "project.propCompiler"
   }
 }]]></component>
